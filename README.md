@@ -1,2 +1,2 @@
 # git-demo
-learning git
+learning git end to end
